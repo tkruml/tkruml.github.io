@@ -3,8 +3,10 @@ title:       tkruml.github.io
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/tkruml.github.io"
-url:         "http://github-tkruml.github.io"
+
+# I commented out these lines
+#baseurl:     "tkruml.github.io"
+#url:         "http://tkruml.github.io"
 
 # Google analytics
 google_analytics:
