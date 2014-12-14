@@ -1,8 +1,8 @@
 # Site settings
-title:       tkruml.github.io
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Blog & Projects
+email:       tristan.ruml@gmail.com
+author:      Tristan Ruml
+description: "Random observations and projects I've worked on."
 
 # I commented out this line for now
 #baseurl:    "tkruml.github.io"
@@ -12,16 +12,16 @@ url:         "//tkruml.github.io"
 google_analytics:
 
 # Optional features
-animated:           false
-show_related_posts: false
+animated:           true
+show_related_posts: true
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username: tkruml
 twitter_username:
-google_plus_id:
-linkedin_username:
+google_plus_id: tristanruml
+linkedin_username: tristanruml
 bitcoin_url:
 paypal_url:
 flattr_button:
