@@ -1,8 +1,8 @@
 # Site settings
-title:       Tristan Ruml | Blog & Projects
+title:       Tristan Ruml | Portfolio
 email:       tristan.ruml@gmail.com
 author:      Tristan Ruml
-description: "Random observations and projects I've worked on."
+description: "My portfolio website."
 
 # I commented out this line for now
 #baseurl:    "tkruml.github.io"
@@ -20,7 +20,7 @@ show_post_footers:  false
 show_social_icons: true
 github_username: tkruml
 twitter_username:
-google_plus_id: tristanruml
+google_plus_id: +TristanRuml
 linkedin_username: tristanruml
 bitcoin_url:
 paypal_url:
