@@ -13,8 +13,7 @@ This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 
 中文版 <https://github.com/ee0703/pixyll-zh-cn>.
 
-Crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
-        &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">Github</a>.
+This Theme was built by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br> an available on his <a href="https://github.com/johnotander/pixyll">Github</a>.
 
 ## Getting Started
 
