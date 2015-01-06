@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Matatu Enterprises
-permalink: /matatu_enterprises/
+permalink: /matatu-enterprises/
 ---
 
 Matatu Enterprises is the entry two of my friends, and I entered into the Grove City College's 2013 Business Plan Competition in the Social Enterprise category. We finished in 2nd place and awarded prize money.
