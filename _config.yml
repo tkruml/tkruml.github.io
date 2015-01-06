@@ -10,8 +10,6 @@ url:         "//tkruml.github.io"
 
 # Google analytics
 google_analytics: UA-47107509-1
-=======
-google_analytics: UA-47107509-2
 
 # Optional features
 animated:           true
@@ -43,7 +41,7 @@ sass:
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-47107509-2', 'auto');
+  ga('create', 'UA-47107509-1', 'auto');
   ga('send', 'pageview');
 
 </script>
