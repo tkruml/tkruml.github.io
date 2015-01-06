@@ -9,11 +9,9 @@ description: "My portfolio website."
 url:         "//tkruml.github.io"
 
 # Google analytics
-<<<<<<< Updated upstream
 google_analytics: UA-47107509-1
 =======
 google_analytics: UA-47107509-2
->>>>>>> Stashed changes
 
 # Optional features
 animated:           true
