@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-A few projects and adventures I've been a part of over the years.
+A few projects and adventures I've enjoyed being a part of.
 
 <br><a href="{{ site.baseurl }}/matatu-enterprises/">Matatu Enterprises</a>
 <br><a href="{{ site.baseurl }}/backpacking-in-europe/">Backpacking in Europe</a>
