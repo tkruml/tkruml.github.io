@@ -10,4 +10,6 @@ Matatus are minibuses used as transportation in Uganda. Most drivers do not own 
 
 Here is the plan: <a href="{{ site.baseurl }}/matatu_enterprises/">Matatu Enterprises</a>
 
-Here is the Prezi presentation we gave: <a href="{{ site.baseurl }}/matatu_enterprises/">Matatu Enterprises</a>
+Here is the Prezi presentation we gave:
+
+<iframe src="http://prezi.com/embed/vaqeg3eevkdp/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;token=undefined&amp;disabled_features=undefined" width="550" height="400" frameBorder="0" webkitAllowFullScreen mozAllowFullscreen allowfullscreen></iframe>
