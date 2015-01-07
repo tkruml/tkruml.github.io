@@ -6,7 +6,7 @@ description: "My portfolio and blog website."
 
 # I commented out this line for now
 #baseurl:    "tkruml.github.io"
-url:         "/tkruml.github.io"
+url:         "//tkruml.github.io"
 
 # Google analytics
 google_analytics: UA-47107509-1
